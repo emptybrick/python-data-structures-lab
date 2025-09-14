@@ -45,7 +45,7 @@ print('Exercise 1:', manage_students())
 
 
 def combine_foods():
-    '''Again I dont understand what the goal is.. I cant append to a string? did it mean a new list?'''
+    '''I cant append to a string? did it mean a new list?'''
     foods = ("Meat", "Vegetables", "Grains")
     meal = []
     for food in foods:
